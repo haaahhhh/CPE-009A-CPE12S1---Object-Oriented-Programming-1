@@ -19,13 +19,11 @@ python > c++, Activities in Python programming course
 
 - 👨‍💻 All of my projects are available at [https://github.com/haaahhhh/CPE-009A-CPE12S1---Object-Oriented-Programming-1](https://github.com/haaahhhh/CPE-009A-CPE12S1---Object-Oriented-Programming-1)
 
-- 📝 I regularly write articles on [https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyEwgBEC4YgwEYxwEYsQMY0QMYgAQyCggCEAAYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDQgFEAAYgwEYsQMYgAQyBggGEEUYPDIGCAcQRRg80gEIMTY2M2owajeoAgewAgHxBeCbUO8Rcw8B&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyEwgBEC4YgwEYxwEYsQMY0QMYgAQyCggCEAAYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDQgFEAAYgwEYsQMYgAQyBggGEEUYPDIGCAcQRRg80gEIMTY2M2owajeoAgewAgHxBeCbUO8Rcw8B&sourceid=chrome&ie=UTF-8)
 
 - 💬 Ask me about **not HOA**
 
 - 📫 How to reach me **qclbandigan@tip.edu.ph**
 
-- 📄 Know about my experiences [https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyEwgBEC4YgwEYxwEYsQMY0QMYgAQyCggCEAAYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDQgFEAAYgwEYsQMYgAQyBggGEEUYPDIGCAcQRRg80gEIMTY2M2owajeoAgewAgHxBeCbUO8Rcw8B&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyEwgBEC4YgwEYxwEYsQMY0QMYgAQyCggCEAAYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDQgFEAAYgwEYsQMYgAQyBggGEEUYPDIGCAcQRRg80gEIMTY2M2owajeoAgewAgHxBeCbUO8Rcw8B&sourceid=chrome&ie=UTF-8)
 
 - ⚡ Fun fact **HOA**
 
